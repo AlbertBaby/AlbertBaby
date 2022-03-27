@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AlbertBaby
-- 👀 I’m interested in AI based automation frameworks
-- 🌱 I’m currently learning Selenium with Javascript
+- 🎯 Done 100+ automation test cases with Cucumber - Appium+selenium - Java
+- 👀 I’m interested in AI assisted automation
+- 🌱 I’m currently learning Selenium with Javascript/python
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me ? @mail
 
