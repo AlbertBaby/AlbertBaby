@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlbertBaby
-- 🎯 Done 100+ automation test cases with Cucumber - Appium+selenium - Java
+- 🎯 Done 100+ automation test cases with - Appium+selenium in Java
 - 👀 I’m interested in AI assisted automation
 - 🌱 I’m currently learning Selenium with Javascript/python
 - 💞️ I’m looking to collaborate on Python
