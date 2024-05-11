@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @AlbertBaby
-- 🎯 Done 100+ automation test cases with - Appium+selenium in Java
-- 👀 I’m interested in AI assisted automation
-- 🌱 I’m currently learning Selenium with Javascript/python
-- 💞️ I’m looking to collaborate on Python
+- 🎯 Done 100+ automation test cases with - Appium(iOS and Android) and selenium in Java
+- 🎯 Done 30+ automation testcases with python for Android based devices
+- 👀 I’m interested in AI assisted automation.
+- 🌱 I’m currently learning Cypress with Javascript
+- 💞️ I’m looking to collaborate on Cypress
 - 📫 How to reach me ? @mail
 
 <!---
